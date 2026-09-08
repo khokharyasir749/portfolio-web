@@ -12,6 +12,12 @@ const projects = [
     featured: true,
     github: "https://github.com/khokharyasir749/smartlearn-lms",
     live: "#",
+    screenshots: [
+      "/projects/smartlearn-lms-1.png",
+      "/projects/smartlearn-lms-2.png",
+      "/projects/smartlearn-lms-3.png",
+      "/projects/smartlearn-lms-4.png",
+    ],
   },
   {
     id: 2,
@@ -24,6 +30,11 @@ const projects = [
     featured: false,
     github: "https://github.com/khokharyasir749/calculator",
     live: "#",
+    screenshots: [
+      "/projects/modern-calculator-1.png",
+      "/projects/modern-calculator-2.png",
+      "/projects/modern-calculator-3.png",
+    ],
   },
   {
     id: 3,
@@ -36,6 +47,9 @@ const projects = [
     featured: false,
     github: "https://github.com/khokharyasir749",
     live: "#",
+    screenshots: [
+      "/projects/personal-portfolio-1.png",
+    ],
   },
   {
     id: 4,
@@ -48,6 +62,11 @@ const projects = [
     featured: false,
     github: "#",
     live: "#",
+    screenshots: [
+      "/projects/weather-dashboard-1.png",
+      "/projects/weather-dashboard-2.png",
+      "/projects/weather-dashboard-3.png",
+    ],
   },
   {
     id: 5,
@@ -60,6 +79,9 @@ const projects = [
     featured: false,
     github: "#",
     live: "#",
+    screenshots: [
+      "/projects/task-manager-1.png",
+    ],
   },
   {
     id: 6,
@@ -72,6 +94,11 @@ const projects = [
     featured: false,
     github: "#",
     live: "#",
+    screenshots: [
+      "/projects/e-commerce-ui-1.png",
+      "/projects/e-commerce-ui-2.png",
+      "/projects/e-commerce-ui-3.png",
+    ],
   },
   {
     id: 7,
